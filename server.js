@@ -1,18 +1,11 @@
+require('dotenv').config()
+
 const OpenAI = require('openai')
 const express = require('express');
-const openai = new OpenAI();
 
-/*
-const completion = await openai.chat.completions.create({
-    model: "gpt-4o",
-    messages: [
-        {
-            "role": "user",
-            "content": "write a haiku about ai",
-        }
-    ]
+const openai = new OpenAI({
+    apiKey: `${process.env.OPENAI_API_KEY}`,
 });
-*/
 
 const app = express()
 
