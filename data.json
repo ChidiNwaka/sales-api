@@ -1,0 +1,95 @@
+{
+    "reminders": [
+      {
+        "id": 1,
+        "title": "Buy groceries",
+        "createdAt": "2024-08-01T09:00:00Z",
+        "modifiedAt": "2024-08-01T09:10:00Z",
+        "actionDate": "2024-08-02T17:00:00Z"
+      },
+      {
+        "id": 2,
+        "title": "Doctor's appointment",
+        "createdAt": "2024-08-02T10:00:00Z",
+        "modifiedAt": "2024-08-02T10:05:00Z",
+        "actionDate": "2024-08-03T15:30:00Z"
+      },
+      {
+        "id": 3,
+        "title": "Meeting with John",
+        "createdAt": "2024-08-03T11:00:00Z",
+        "modifiedAt": "2024-08-03T11:15:00Z",
+        "actionDate": "2024-08-04T09:00:00Z"
+      },
+      {
+        "id": 4,
+        "title": "Submit report",
+        "createdAt": "2024-08-04T12:00:00Z",
+        "modifiedAt": "2024-08-04T12:30:00Z",
+        "actionDate": "2024-08-05T14:00:00Z"
+      },
+      {
+        "id": 5,
+        "title": "Renew car insurance",
+        "createdAt": "2024-08-05T13:00:00Z",
+        "modifiedAt": "2024-08-05T13:10:00Z",
+        "actionDate": "2024-08-06T12:00:00Z"
+      },
+      {
+        "id": 6,
+        "title": "Pay utility bills",
+        "createdAt": "2024-08-06T14:00:00Z",
+        "modifiedAt": "2024-08-06T14:20:00Z",
+        "actionDate": "2024-08-07T11:00:00Z"
+      },
+      {
+        "id": 7,
+        "title": "Call plumber",
+        "createdAt": "2024-08-07T15:00:00Z",
+        "modifiedAt": "2024-08-07T15:05:00Z",
+        "actionDate": "2024-08-08T10:00:00Z"
+      },
+      {
+        "id": 8,
+        "title": "Birthday gift for Alex",
+        "createdAt": "2024-08-08T16:00:00Z",
+        "modifiedAt": "2024-08-08T16:10:00Z",
+        "actionDate": "2024-08-09T18:00:00Z"
+      },
+      {
+        "id": 9,
+        "title": "Gym session",
+        "createdAt": "2024-08-09T17:00:00Z",
+        "modifiedAt": "2024-08-09T17:15:00Z",
+        "actionDate": "2024-08-10T07:00:00Z"
+      },
+      {
+        "id": 10,
+        "title": "Weekly team meeting",
+        "createdAt": "2024-08-10T18:00:00Z",
+        "modifiedAt": "2024-08-10T18:20:00Z",
+        "actionDate": "2024-08-11T09:30:00Z"
+      },
+      {
+        "id": 11,
+        "title": "Visit the dentist",
+        "createdAt": "2024-08-11T19:00:00Z",
+        "modifiedAt": "2024-08-11T19:05:00Z",
+        "actionDate": "2024-08-12T16:00:00Z"
+      },
+      {
+        "id": 12,
+        "title": "Client call",
+        "createdAt": "2024-08-12T20:00:00Z",
+        "modifiedAt": "2024-08-12T20:10:00Z",
+        "actionDate": "2024-08-13T14:00:00Z"
+      },
+      {
+        "id": 13,
+        "title": "Finish project proposal",
+        "createdAt": "2024-08-13T21:00:00Z",
+        "modifiedAt": "2024-08-13T21:20:00Z",
+        "actionDate": "2024-08-14T11:00:00Z"
+      }
+    ]
+  }
